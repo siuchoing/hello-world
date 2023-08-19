@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>This is a Heading 2</h1>
+<h1>This is a Heading 3</h1>
 <p>This is a paragraph.</p>
 <p>This is my third revision</p>
 
